@@ -51,3 +51,12 @@ First start aria2 in the background either in your local machine or in a remote 
 backend or server-side program. All you need is just a browser.
 
 
+---
+
+### Support / Unterstützung
+
+If my open-source contributions are useful to you, you can support my work voluntarily. Feedback, bug reports and contributions are just as welcome.
+
+Wenn dir meine Open-Source-Beiträge helfen, freue ich mich über freiwillige Unterstützung. Auch Feedback, Fehlermeldungen und Pull Requests helfen weiter.
+
+[Buy Me a Coffee](https://buymeacoffee.com/sly5ir9ov) · [PayPal](https://paypal.me/LarsM1980)
